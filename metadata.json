@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Government Scheme Analyzer and Recommendation System",
+  "description": "Discover citizen welfare schemes, evaluate rule-based eligibility, receive personalized AI recommendations, view document checklists, and track applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
